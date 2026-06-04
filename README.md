@@ -40,13 +40,9 @@
 
 ---
 
-### 📊 GitHub Stats
+### 🌟 My Projects
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=er-sunny-me&show_icons=true&theme=radium&hide_border=true&title_color=F7DF1E&icon_color=F7DF1E" alt="Sunny's GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=er-sunny-me&theme=radium&hide_border=true&stroke=0000&background=141321&ring=F7DF1E&fire=F7DF1E&currStreakLabel=F7DF1E" alt="GitHub Streak" />
-</p>
+- 🏆 **[Novus-IDE](https://github.com/er-sunny-me/Novus-IDE)**: My flagship project. A complete, AI-powered IDE running directly on Android. Features an embedded terminal, smart editor, and Git integration.
 
 ---
 
