@@ -1,9 +1,9 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F7DF1E&center=true&vCenter=true&width=500&lines=Hi+there,+I'm+Sunny!+👋;Android+Developer;Open+Source+Enthusiast;Creator+of+Novus+IDE" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=E53935&center=true&vCenter=true&width=500&lines=Hi+there,+I'm+Sunny!+👋;Android+Developer;Open+Source+Enthusiast;Creator+of+Novus+IDE" alt="Typing SVG" />
 </h1>
 
 <p align="center">
-  <em>A passionate developer from India building tools that empower others. I love crafting robust Android applications and working with cutting-edge technologies.</em>
+  <em>A passionate developer building advanced tools that empower others. I love crafting robust Android applications and working with cutting-edge technologies.</em>
 </p>
 
 ---
@@ -21,21 +21,21 @@
 
 <p align="center">
   <!-- Languages -->
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-111111?style=for-the-badge&logo=openjdk&logoColor=E53935" />
+  <img src="https://img.shields.io/badge/Kotlin-111111?&style=for-the-badge&logo=kotlin&logoColor=E53935" />
+  <img src="https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=E53935" />
+  <img src="https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=E53935" />
+  <img src="https://img.shields.io/badge/TypeScript-111111?style=for-the-badge&logo=typescript&logoColor=E53935" />
+  <img src="https://img.shields.io/badge/C%2B%2B-111111?style=for-the-badge&logo=c%2B%2B&logoColor=E53935" />
   
   <br/><br/>
   
   <!-- Tools & Platforms -->
-  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Android_Studio-111111?style=for-the-badge&logo=android-studio&logoColor=E53935" />
+  <img src="https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=E53935" />
+  <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=E53935" />
+  <img src="https://img.shields.io/badge/Gradle-111111.svg?style=for-the-badge&logo=Gradle&logoColor=E53935" />
+  <img src="https://img.shields.io/badge/Linux-111111?style=for-the-badge&logo=linux&logoColor=E53935" />
 </p>
 
 ---
@@ -47,5 +47,5 @@
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=F7DF1E&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=E53935&height=100&section=footer" />
 </p>
