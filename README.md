@@ -22,7 +22,7 @@
 
 ### 🚀 About Me
 
-- 🔭 I’m currently working on **[Novus-IDE](https://github.com/er-sunny-me/Novus-IDE)** — An advanced, codebase-aware Terminal & Editor for Android.
+- 🔭 I’m currently working on **[Rose](https://github.com/er-sunny-me/rose.git)** — An advanced, codebase-aware Terminal & Editor for Android.
 - 🌱 I’m currently exploring **AI-driven development tools, Kotlin Multiplatform, and Advanced Android Architecture**.
 - 💡 I love writing clean, maintainable code and building highly responsive UIs.
 - 💬 Ask me about **Java, Kotlin, Android Development, or IDE Architecture**.
